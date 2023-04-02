@@ -4,14 +4,25 @@ Project 2: 62.5%
 Project 3: 100% 
 
 ## Table of Contents
+* [Project 1](#Project-1)
+* [Project 2](#Project-2)
 * [Project 3](#Project-3)
 
   * [Introduction](#Introduction)
   * [Data and Results](#Data-and-Results)
   * [Conclusion](#Conclusion)
   * [Extension](#Extension)
-* [Project 1](#Project-1)
-* [Project 2](#Project-2)
+
+
+# Project 1
+Score: 82.5%
+
+In this project, I created a simple dictionary based on a linked list to store information from the City of Melbourne Census of Land Use and Employment (CLUE). A user can to search this dictionary to retrieve information about businesses in Melbourne using the business name (key).
+
+# Project 2
+Score: 57%
+
+In this project, I created a K-D tree to support interactive map functionality for the City of Melbourne Census of Land Use and Employment (CLUE) dataset. A user can to query locations to find nearby businesses.
 
 # Project 3
 Score: 100%
@@ -59,15 +70,3 @@ The theoretical time complexity of the Depth-First Search AI algorithm appeared 
 
 ## Extension
 Improvements in the algorithm would including not iterating the entire layout board when considering possible moves, as empty spaces are wasted comparisons. Extensions to this experimentation would be using larger budget sizes and more complex board layouts, to gain a further understanding of time complexity and correctness performance of the algorithm for larger numbers of nodes. 
-
-
-
-# Project 1
-Score: 82.5%
-
-In this project, I created a simple dictionary based on a linked list to store information from the City of Melbourne Census of Land Use and Employment (CLUE). A user can to search this dictionary to retrieve information about businesses in Melbourne using the business name (key).
-
-# Project 2
-Score: 57%
-
-In this project, I created a K-D tree to support interactive map functionality for the City of Melbourne Census of Land Use and Employment (CLUE) dataset. A user can to query locations to find nearby businesses.
