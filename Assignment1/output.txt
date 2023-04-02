@@ -1,0 +1,1 @@
+Ithacan Philanthropic Society "The Ulysses" --> Census year: 2018 || Block ID: 84 || Property ID: 103210 || Base property ID: 103210 || CLUE small area: Melbourne (CBD) || Industry (ANZSIC4) code: 9559 || Industry (ANZSIC4) description: Other Interest Group Services n.e.c. || x coordinate: 144.96136 || y coordinate: -37.81099 || Location: (-37.81098646, 144.9613557)" || 
