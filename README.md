@@ -26,6 +26,7 @@ In this project, I created a K-D tree to support interactive map functionality f
 
 # Project 3
 Score: 100%
+
 In this project I built an AI Algorithm to solve Peg Solitaire (known as Brainvita in India)
 
 ## Introduction
