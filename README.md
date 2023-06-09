@@ -1,33 +1,9 @@
-# COMP20003-Projects
-Project 1: 82.5% 
-Project 2: 62.5% 
-Project 3: 100% 
-
-## Table of Contents
-* [Project 1](#Project-1)
-* [Project 2](#Project-2)
-* [Project 3](#Project-3)
+# Peg Solitaire AI
 
   * [Introduction](#Introduction)
   * [Data and Results](#Data-and-Results)
   * [Conclusion](#Conclusion)
   * [Extension](#Extension)
-
-
-# Project 1
-Score: 82.5%
-
-In this project, I created a simple dictionary based on a linked list to store information from the City of Melbourne Census of Land Use and Employment (CLUE). A user can to search this dictionary to retrieve information about businesses in Melbourne using the business name (key).
-
-# Project 2
-Score: 57%
-
-In this project, I created a K-D tree to support interactive map functionality for the City of Melbourne Census of Land Use and Employment (CLUE) dataset. A user can to query locations to find nearby businesses.
-
-# Project 3
-Score: 100%
-
-In this project I built an AI Algorithm to solve Peg Solitaire (known as Brainvita in India)
 
 ## Introduction
 In this project I coded an AI solver for the game ‘Peg Solitaire’. Given a board with a number of pegs and spaces, the AI solver generates possible moves and then expands the outcome state, updating the solution if the outcome state is closer to victory. Each board state is stored as a node. For each node expanded, all possible valid moves must be generated, and the resulting state stored as a node, if it is unique. This process was done using Depth-First Search and each expanded node was stored in a visited array, hence:
